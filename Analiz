@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galatasaray - Fenerbahçe Derbisi Analiz</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Galatasaray - Fenerbahçe Derbisi Analiz</h1>
+        <nav>
+            <ul>
+                <li><a href="#analysis">Maç Analizleri</a></li>
+                <li><a href="#stats">İstatistikler</a></li>
+                <li><a href="#predictions">Tahminler</a></li>
+                <li><a href="#comments">Taraftar Yorumları</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="analysis">
+        <h2>Maç Analizleri</h2>
+        <p>Bu bölümde maç öncesi ve sonrası analizler yer alacak.</p>
+    </section>
+
+    <section id="stats">
+        <h2>İstatistikler</h2>
+        <p>Takım ve oyuncu istatistikleri burada görüntülenebilir.</p>
+    </section>
+
+    <section id="predictions">
+        <h2>Tahminler</h2>
+        <p>Uzmanların ve yapay zekanın maç tahminleri burada yer alacak.</p>
+    </section>
+
+    <section id="comments">
+        <h2>Taraftar Yorumları</h2>
+        <p>Taraftarların maç hakkındaki görüşlerini paylaşabileceği bir forum.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Galatasaray - Fenerbahçe Derbisi Analiz</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
